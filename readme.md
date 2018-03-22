@@ -1,5 +1,5 @@
-# TG1
-TG1 del grupo T4. Componentes:
+# TG2
+TG2 del grupo T4. Componentes:
 
 AlbertoCabreraPlata - Alberto Cabrera Plata
 
