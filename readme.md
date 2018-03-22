@@ -5,7 +5,7 @@ AlbertoCabreraPlata - Alberto Cabrera Plata
 
 urbanojvr - Urbano José Villanueva Rodríguez
 
-jdnav- Jose Daniel Navarro Sierra
+jdnav- José Daniel Navarro Sierra
 
 fernandogarciaferna - Fernando García Fernández
 
